@@ -15,7 +15,7 @@
 
 <!-- 使用https://skillicons.dev/的图标 -->
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,js,html,css,py,bash,docker,git,github,idea,vscode,linux,md,mysql,nginx,nodejs,postman,redis,spring,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,rust,js,html,css,py,bash,docker,git,github,idea,vscode,linux,md,mysql,nginx,nodejs,postman,redis,spring,vue)](https://skillicons.dev)
 
 <!-- ## 🏗️ Projects -->
 
