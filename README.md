@@ -40,7 +40,7 @@ Full-stack project with Vue.js frontend and Java backend -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xudong7&show_icons=true&hide_title=true&hide_border=true&theme=default" />
   
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xudong7&hide_title=true&hide_border=true&layout=compact&theme=default" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xudong7&hide_title=true&hide_border=true&layout=compact&theme=default&langs_count=8" />
 </div>
 
 <!-- ## 📫 Contact Me -->
