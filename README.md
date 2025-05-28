@@ -10,10 +10,10 @@ I'm a student at **School of Software Engineering, Sun Yat-sen University**
 
 [![My Skills](https://skillicons.dev/icons?i=java,go,rust,ts,js,html,css,py,bash,docker,git,github,idea,vscode,linux,md,mysql,nginx,nodejs,postman,redis,spring,vue,tauri)](https://skillicons.dev)
 
-<!--
+
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xudong7&show_icons=true&hide_title=true&hide_border=true&theme=default" />
   
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xudong7&hide_title=true&hide_border=true&layout=compact&theme=default&langs_count=8" />
 </div>
--->
+
