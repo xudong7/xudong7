@@ -8,7 +8,7 @@
 
 I'm a student at **School of Software Engineering, Sun Yat-sen University**
 
-[![My Skills](https://skillicons.dev/icons?i=java,go,rust,ts,js,html,css,py,bash,docker,git,github,idea,vscode,linux,md,mysql,nginx,nodejs,postman,redis,spring,vue,tauri)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,rust,ts,js,vue,spring,tauri,redis,mysql,nginx,docker,bash,linux,md)](https://skillicons.dev)
 
 
 <div align="center">
