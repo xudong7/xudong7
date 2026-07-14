@@ -1,14 +1,14 @@
-<div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Xudong — software engineering student and developer" />
-</div>
-
-<br />
+# Xudong
 
 I'm a Software Engineering student at **Sun Yat-sen University**, building thoughtful software across desktop, backend, and AI.
 
 Currently exploring LLM agents, software engineering automation, and systems programming.
 
-[Projects](https://github.com/xudong7?tab=repositories) · [Blog](https://xudong7-github-io.vercel.app)
+<p>
+  <a href="https://github.com/xudong7?tab=repositories"><img src="./assets/icons/github.svg" width="16" height="16" alt="" />&nbsp; Projects</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://xudong7-github-io.vercel.app"><img src="./assets/icons/blog.svg" width="16" height="16" alt="" />&nbsp; Blog</a>
+</p>
 
 <br />
 
