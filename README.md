@@ -1,33 +1,19 @@
-# Xudong
+<!-- Dynamic typing effect -->
 
-I'm a Software Engineering student at **Sun Yat-sen University**, building thoughtful software across desktop, backend, and AI.
+<!-- 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C96F7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Xudong;%F0%9F%8E%93+Student+%40+Sun+Yat--sen+University;%F0%9F%92%BB+Full+Stack+Developer" alt="Typing SVG" /></a>
+</div>
+-->
 
-Currently exploring LLM agents, software engineering automation, and systems programming.
+I'm a student at **School of Software Engineering, Sun Yat-sen University**
 
-<p>
-  <a href="https://github.com/xudong7?tab=repositories"><img src="./assets/icons/github.svg" width="16" height="16" alt="" />&nbsp; Projects</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://xudong7-github-io.vercel.app"><img src="./assets/icons/blog.svg" width="16" height="16" alt="" />&nbsp; Blog</a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,go,rust,ts,js,vue,spring,tauri,redis,mysql,nginx,docker,bash,linux,md)](https://skillicons.dev)
 
-<br />
 
-### Selected work
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xudong7&show_icons=true&hide_title=true&hide_border=true&theme=default" />
+  
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xudong7&hide_title=true&hide_border=true&layout=compact&theme=default&langs_count=8" />
+</div>
 
-**[tauri-rmusic](https://github.com/xudong7/tauri-rmusic)**
-
-A cross-platform desktop music player built with Tauri, Rust, and Vue.
-
-**[tauri-rbook](https://github.com/xudong7/tauri-rbook)**
-
-A lightweight, cross-platform EPUB reader.
-
-**[sentence-segmentation](https://github.com/xudong7/sentence-segmentation)**
-
-A Python tool for splitting long sentences into concise segments.
-
-<br />
-
-### Stack
-
-`Rust` &nbsp; `Go` &nbsp; `Python` &nbsp; `TypeScript` &nbsp; `Java` &nbsp; `Vue` &nbsp; `Tauri` &nbsp; `Docker`
